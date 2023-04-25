@@ -5,16 +5,16 @@ The purpose of this pipeline is to provide insights that can inform future inter
 
 The notebook demonstrates individual steps of the pipeline for a specific use case:
 
--Prot_A: SARS-CoV-2 spike protein
--Prot_B: Antibody P5A-3C8
--Prot_C: ACE2
+- Prot_A: SARS-CoV-2 spike protein
+- Prot_B: Antibody P5A-3C8
+- Prot_C: ACE2
 PDB entries: 6M0J and 7Z0X
 
 The notebook includes the following sections:
 
--Loading and Preprocessing Structures
--Interface Residue Identification
--Hotspot Residue Identification
+- Loading and Preprocessing Structures
+- Interface Residue Identification
+- Hotspot Residue Identification
 
 
 Getting Started
