@@ -23,6 +23,8 @@ To use this notebook, you will need to install the following software:
 - Jupyter Notebook
 - PyMOL 
 
-
 Once you have installed the necessary software and downloaded the PDB entries, you can run the notebook and follow the steps outlined in each section.
 The notebook also includes detailed explanations of each step and the underlying concepts and methods used.
+
+![Example image](https://github.com/emamars95/complexes_interface/blob/main/aligned_6M0J.png)
+
