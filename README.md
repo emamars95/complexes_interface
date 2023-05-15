@@ -18,7 +18,7 @@ To use this notebook, you will need to install/download the following software:
 - InterfaceResidues.py
 
 ### Run the code
-Once you have installed the necessary software, you can run the notebook and follow the steps outlined in each section. There four sections: 
+Once you have installed the necessary software, you can run the notebook and follow the steps outlined in each section. There are four sections: 
 - Identify and retrieve the PDB entries 6M0J and 7Z0X.
 - Perform structural superimposition of the two complexes to determine the overlap of the binding interfaces using PyMOL.
 ![Sructural superimposition of the two complexes](https://github.com/emamars95/complexes_interface/blob/main/aligned_6M0J.png)
