@@ -18,13 +18,17 @@ PDB entries: 6M0J and 7Z0X
 
 
 ## Getting Started
-To use this notebook, you will need to install the following software:
+To use this notebook, you will need to install/download the following software:
 
 - Jupyter Notebook
 - PyMOL 
+- InterfaceResidues.py
 
-Once you have installed the necessary software and downloaded the PDB entries, you can run the notebook and follow the steps outlined in each section.
+Once you have installed the necessary software, you can run the notebook and follow the steps outlined in each section. There four sections: 
+- Identify and retrieve the PDB entries 6M0J and 7Z0X.
+- Perform structural superimposition of the two complexes to determine the overlap of the binding interfaces using PyMOL.
+![Sructural superimposition of the two complexes](https://github.com/emamars95/complexes_interface/blob/main/aligned_6M0J.png)
+- Extract the interface residues in each complex using InterfaceResidues within PyMol
+- Perform a comparative analysis of the interface residues of SARS-CoV-2 spike protein in the two complexes to identify important residues
+
 The notebook also includes detailed explanations of each step and the underlying concepts and methods used.
-
-![Example image](https://github.com/emamars95/complexes_interface/blob/main/aligned_6M0J.png)
-
