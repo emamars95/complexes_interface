@@ -29,7 +29,7 @@ Once you have installed the necessary software, you can run the notebook and fol
 - Perform structural superimposition of the two complexes to determine the overlap of the binding interfaces using PyMOL.
 ![Sructural superimposition of the two complexes](https://github.com/emamars95/complexes_interface/blob/main/aligned_6M0J.png)
 - Extract the interface residues in each complex using InterfaceResidues within PyMol
-![Interface of the 7Z0X complex](https://github.com/emamars95/complexes_interface/blob/main/7Z0X.png)
+![Interface of the 6M0J complex](https://github.com/emamars95/complexes_interface/blob/main/6M0J_interface.png)
 - Perform a comparative analysis of the interface residues of SARS-CoV-2 spike protein in the two complexes to identify important residues
 
 The notebook also includes detailed explanations of each step and the underlying concepts and methods used.
