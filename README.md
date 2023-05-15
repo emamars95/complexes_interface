@@ -10,13 +10,6 @@ The purpose of this pipeline is to provide insights that can inform future inter
 - Prot_C: ACE2
 PDB entries: 6M0J and 7Z0X
 
-### The notebook includes the following sections:
-
-- Loading and Preprocessing Structures
-- Interface Residue Identification
-- Hotspot Residue Identification
-
-
 ## Getting Started
 To use this notebook, you will need to install/download the following software:
 
@@ -24,6 +17,7 @@ To use this notebook, you will need to install/download the following software:
 - PyMOL 
 - InterfaceResidues.py
 
+### Run the code
 Once you have installed the necessary software, you can run the notebook and follow the steps outlined in each section. There four sections: 
 - Identify and retrieve the PDB entries 6M0J and 7Z0X.
 - Perform structural superimposition of the two complexes to determine the overlap of the binding interfaces using PyMOL.
