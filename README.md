@@ -11,10 +11,10 @@ The purpose of this pipeline is to provide insights that can inform future inter
 PDB entries: 6M0J and 7Z0X
 
 ## Getting Started
-To use this notebook, you will need to install/download the following software:
-
+To use this notebook, you will need to install:
 - Jupyter Notebook
-- PyMOL 
+- PyMOL
+and download the python module on PATH enviroment 
 - InterfaceResidues.py
 
 ### Run the code
