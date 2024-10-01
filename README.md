@@ -1,4 +1,4 @@
-# Analyzing Complex Interfaces with Jupyter Notebook
+# Analyzing Complex Interfaces
 
 This Jupyter notebook analyzes the interface between two proteins, Prot_A and Prot_B, using a multi-step analytical pipeline.
 The purpose of this pipeline is to provide insights that can inform future interface redesign efforts.
